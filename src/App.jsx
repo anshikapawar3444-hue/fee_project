@@ -171,7 +171,7 @@ export default function App() {
         <div className="brand-container">
           <div className="brand-icon"><i className="fa-solid fa-shield-halved"></i></div>
           <div>
-            <div className="brand-title">ResQ Campus</div>
+            <div className="brand-title">SOSync</div>
             <div className="brand-sub">Smart Emergency System</div>
           </div>
         </div>
